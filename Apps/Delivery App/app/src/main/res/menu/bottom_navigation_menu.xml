@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_pendding"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/navigation_logistic"
+        android:icon="@drawable/ic_logistic"
+        android:title="Logistics" />
+    <item
+        android:id="@+id/navigation_parcel"
+        android:icon="@drawable/ic_parcel"
+        android:title="Parcel" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/user_circle"
+        android:title="Account" />
+
+
+
+</menu>
